@@ -1,0 +1,114 @@
+{
+    "franchise": [
+      {
+        "id": 1,
+        "name": "맘스터치",
+        "storeCount": 1450
+      },
+      {
+        "id": 2,
+        "name": "롯데리아",
+        "storeCount": 1300
+      },
+      {
+        "id": 3,
+        "name": "프랭크버거",
+        "storeCount": 750
+      },
+      {
+        "id": 4,
+        "name": "버거킹",
+        "storeCount": 520
+      },
+      {
+        "id": 5,
+        "name": "맥도날드",
+        "storeCount": 460
+      },
+      {
+        "id": 6,
+        "name": "노브랜드버거",
+        "storeCount": 218
+      },
+      {
+        "id": 7,
+        "name": "KFC",
+        "storeCount": 202
+      },
+      {
+        "id": 8,
+        "name": "뉴욕버거",
+        "storeCount": 250
+      },
+      {
+        "id": 9,
+        "name": "버거앤프라이즈",
+        "storeCount": 38
+      },
+      {
+        "id": 10,
+        "name": "쉐이크쉑",
+        "storeCount": 31
+      },
+      {
+        "id": 11,
+        "name": "힘난다버거",
+        "storeCount": 29
+      },
+      {
+        "id": 12,
+        "name": "블리스버거",
+        "storeCount": 27
+      },
+      {
+        "id": 13,
+        "name": "GTS버거",
+        "storeCount": 27
+      },
+      {
+        "id": 14,
+        "name": "바스버거",
+        "storeCount": 20
+      },
+      {
+        "id": 15,
+        "name": "브루클린더버거조인트",
+        "storeCount": 14
+      },
+      {
+        "id": 16,
+        "name": "칙바이칙",
+        "storeCount": 13
+      },
+      {
+        "id": 17,
+        "name": "모스버거",
+        "storeCount": 11
+      },
+      {
+        "id": 18,
+        "name": "버거스올마이티",
+        "storeCount": 9
+      },
+      {
+        "id": 19,
+        "name": "번패티번",
+        "storeCount": 9
+      },
+      {
+        "id": 20,
+        "name": "빌리언박스",
+        "storeCount": 7
+      },
+      {
+        "id": 21,
+        "name": "크라이치즈버거",
+        "storeCount": 7
+      },
+      {
+        "id": 22,
+        "name": "파이브가이즈",
+        "storeCount": 7
+      }
+    ]
+}
